@@ -1,4 +1,4 @@
-name: "K8s Example WordPress"
-description: "Blogging platform"
+name: "K8s Example Piwik"
+description: "Analysis platform"
 version: 1.0.0
-category: Blogging
+category: Analysis
