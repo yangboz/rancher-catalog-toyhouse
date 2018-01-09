@@ -1,4 +1,4 @@
-name: "K8s Example WordPress"
-description: "Blogging platform"
-version: 1.0.0
-category: Blogging
+name: "Kibana 4"
+description: "Visualization dashboard"
+version: "4.6.3-rancher1"
+category: ELK

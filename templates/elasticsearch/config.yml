@@ -1,4 +1,5 @@
-name: "K8s Example WordPress"
-description: "Blogging platform"
-version: 1.0.0
-category: Blogging
+name: Elasticsearch
+description: |
+  Elasticsearch, you know for search!
+version: 1.7.3-rancher1
+category: ELK

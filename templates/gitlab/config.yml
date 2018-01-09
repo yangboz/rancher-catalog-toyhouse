@@ -1,4 +1,5 @@
-name: "K8s Example WordPress"
-description: "Blogging platform"
-version: 1.0.0
-category: Blogging
+name: Gitlab Community
+description: |
+  Gitlab CE is a free GitHub alternative
+version: 9.5.10-ce.0
+category: Versioning

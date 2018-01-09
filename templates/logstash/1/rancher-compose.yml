@@ -1,6 +1,6 @@
 .catalog:
   name: "Logstash"
-  version: "1.5.3-1-rancher1"
+  version: "1.5.6-1-rancher1"
   description: "Logstash: Process Any Data, From Any Source"
   questions:
     - variable: "collector_inputs"
@@ -13,6 +13,10 @@
       default: |
         udp {
           port => 5000
+          codec => "json"
+        }
+        tcp {
+          port => 6000
           codec => "json"
         }
     - variable: "indexer_filters"

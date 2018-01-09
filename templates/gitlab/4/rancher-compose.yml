@@ -1,6 +1,6 @@
 .catalog:
   name: Gitlab Community
-  version: 9.3.3-ce.0
+  version: 9.5.10-ce.0
   description: |
     Gitlab CE is a free GitHub alternative
   minimum_rancher_version: v0.56.0
@@ -65,5 +65,5 @@ gitlab-server:
     interval: 30000
     unhealthy_threshold: 3
     strategy: recreate
-    response_timeout: 2000
+    response_timeout: 3000
     healthy_threshold: 2
