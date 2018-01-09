@@ -1,4 +1,4 @@
-name: "K8s Example Piwik"
-description: "Analysis platform"
+name: "Piwik"
+description: "Website Analysis platform"
 version: 1.0.0
-category: Analysis
+category: Monitoring & Analytics
