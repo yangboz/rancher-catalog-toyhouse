@@ -1,4 +1,4 @@
-name: "K8s Example WordPress"
-description: "Blogging platform"
+name: "Jupyter"
+description: "Jupyter Notebook platform"
 version: 1.0.0
-category: Blogging
+category: Modeling
