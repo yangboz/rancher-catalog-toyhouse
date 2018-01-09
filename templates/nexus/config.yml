@@ -1,4 +1,4 @@
-name: "K8s Example WordPress"
-description: "Blogging platform"
+name: "Nexus"
+description: "Sonatype Nexus tool"
 version: 1.0.0
-category: Blogging
+category: Tools

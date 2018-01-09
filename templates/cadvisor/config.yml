@@ -1,0 +1,4 @@
+name: "cAdvisor"
+description: "Docker Container Advisor"
+version: 1.0.0
+category: Tools
