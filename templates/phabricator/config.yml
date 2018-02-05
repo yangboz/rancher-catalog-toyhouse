@@ -2,3 +2,6 @@ name: "Phabricator"
 description: "Project Managment platform"
 version: 1.0.0
 category: Documenting
+maintainer: z@smartkit.info
+license: GPLv3
+projectURL: http://localhost:83

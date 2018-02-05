@@ -2,3 +2,6 @@ name: "OpenModelica"
 description: "OpenModelica Modeling platform"
 version: 1.0.0
 category: Modeling
+maintainer: z@smartkit.info
+license: GPLv3
+projectURL: http://localhost:84

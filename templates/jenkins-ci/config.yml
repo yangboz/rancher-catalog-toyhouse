@@ -3,3 +3,6 @@ description: |
   Jenkins CI server (LTS)
 version: 2.92-rancher1
 category: Tools
+maintainer: z@smartkit.info
+license: GPLv3
+projectURL: http://localhost:85
