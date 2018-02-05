@@ -1,4 +1,7 @@
-name: "WordPress"
+name: "Toyhouse WordPress Example"
 description: "Blogging platform"
 version: 1.0.0
 category: Documenting
+maintainer: z@smartkit.info
+license: GPLv3
+projectURL: http://localhost:81
