@@ -1,5 +1,5 @@
-# rancher-private-catalog
-A Rancher private catelogs.
+# rancher-catalog-toyhouse
+A Rancher private catelogs for Toyhouse.cc.
 
 ## Reference
 
