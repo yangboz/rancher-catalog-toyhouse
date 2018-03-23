@@ -1,0 +1,7 @@
+name: "Nuxeo"
+description: "Nuxeo is an open source Content Management Platform that is completely customizable. "
+version: 1.0.0
+category: Documenting
+maintainer: z@smartkit.info
+license: Apache 2.0
+projectURL: http://localhost:86x
