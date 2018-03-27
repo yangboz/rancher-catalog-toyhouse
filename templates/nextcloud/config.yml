@@ -1,0 +1,7 @@
+name: "NextCloud"
+description: "Nextcloud is an open source, self-hosted file share and communication platform."
+version: 1.0.0
+category: Documenting
+maintainer: z@smartkit.info
+license: GPLv3
+projectURL: http://remix.cafe
